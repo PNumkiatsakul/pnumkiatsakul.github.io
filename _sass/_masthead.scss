@@ -4,6 +4,7 @@
 
 .masthead {
   position: relative;
+  // background-color: rgb(224,146,146);
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -42,12 +43,17 @@
 }
 
 .masthead__menu-item {
-  display: block;
+  display: inline-block;
   list-style-type: none;
   white-space: nowrap;
+  justify-content: space-between;
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-weight: 600;
+    font-size: $type-size-4-5;
+    margin-left: 0; 
+    margin-right: auto;
+
   }
 }

@@ -2,13 +2,22 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
+<div class="post">
+  <article class="post-content">
+    <object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/cv.pdf" width="100%" height="100" type="application/pdf"></object>              
+  </article>
+</div>
+
+
+
+<!-- 
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
