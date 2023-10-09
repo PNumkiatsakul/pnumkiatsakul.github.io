@@ -37,3 +37,14 @@ author_profile: false
 
 0. Incarnato R, Kunkel III HA, Wickline KG, Shetty S, **Numkiatsakul P**, Trolier-McKinstry S, Randall C. [Graded acoustic matching layers.](https://patents.google.com/patent/WO2022238326A1/) 2022.  
 {: reversed="reversed"}
+
+## Presentations
+
+<!-- {% for post in site.presentations reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
+
+0. **Numkiatsakul P**, Kriven WM, Lee T, Kim KS, Kweon CB. "Enhancing Oxidation Resistance of Silicon Nitride Using Ca<SUP>2+</SUP> Stabilizer" 2023, [MS&T Annual Meeting in Phase Transformations in Ceramics: Science and Applications Symposium](https://www.matscitech.org/MST23), Columbus, OH.
+0. **Numkiatsakul P**, Winegar T "Development of Advanced Materials for Novel Ignition Assistance Devices" 2023, 4th Center for UAS Propulsion(CUP) Workshop Poster Presentation, Virtual.
+0. **Numkiatsakul P** "Development of Advanced Materials for Novel Ignition Assistance Devices" 2022, 3rd Center for UAS Propulsion(CUP) Workshop Poster Presentation, Virtual.
+{: reversed="reversed"} 
