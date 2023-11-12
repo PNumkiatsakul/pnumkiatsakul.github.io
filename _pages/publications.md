@@ -15,6 +15,8 @@ author_profile: false
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+0. Kim, S, Ryu JI, Kang SG, Motily AH, **Numkiatsakul P**, Alonso R, Lee T, Kriven WM, Kim KS, Kweon CB. [Numerical Investigations of Combustion Dynamics and Thermo-Mechanical Stress in the Ignition Assistance System for Small Aircraft Engines.](https://doi.org/10.1080/00102202.2023.2278075) Combustion Science and Technology. 2023.
+0. Kang SG, Ryu JI, Motily AH, **Numkiatsakul P**, Lee T, Kriven WM, Kim KS, Kweon CB. [Transient Thermomechanical Stress Analysis of Hot Surface Ignition Device Using Sequentially Coupled Computational Fluid Dynamics–Finite Element Analysis Approach.](https://doi.org/10.1115/1.4056426) Journal of Engineering for Gas Turbines and Power. 2023 Dec;145(12):121001.
 0. Kang SG, Ryu JI, Motily AH, **Numkiatsakul P**, Lee T, Kriven WM, Kim KS, Kweon CB. [Thermomechanical Characterization of Hot Surface Ignition Device Using Phenomenological Heat Flux Model.](https://arc.aiaa.org/doi/abs/10.2514/1.B38662) Journal of Propulsion and Power. 2022 Jul;38(4):656-70.
 0. Shetty S, **Numkiatsakul P**, Wickline K, Incarnato R, Wang H, Kunkel H, Randall CA, Trolier-McKinstry S. [Development of Polymer-Ceramic-Metal Graded Acoustic Matching Layers via Cold Sintering.](https://ieeexplore.ieee.org/abstract/document/9701919) IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. 2022 Feb 2;69(4):1413-27.
 {: reversed="reversed"}
@@ -44,6 +46,7 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %} -->
 
+0. **Numkiatsakul P** "Advancing Glow Plug Materials: Enhancing Silicon Nitride Oxidation Resistance with Ca<SUP>2+</SUP> Stabilizer" 2023, [Univeristy of Illinois Hard Materials Seminar], Urbana, IL.
 0. **Numkiatsakul P**, Kriven WM, Lee T, Kim KS, Kweon CB. "Enhancing Oxidation Resistance of Silicon Nitride Using Ca<SUP>2+</SUP> Stabilizer" 2023, [MS&T Annual Meeting in Phase Transformations in Ceramics: Science and Applications Symposium](https://www.matscitech.org/MST23), Columbus, OH.
 0. **Numkiatsakul P**, Winegar T "Development of Advanced Materials for Novel Ignition Assistance Devices" 2023, 4th Center for UAS Propulsion(CUP) Workshop Poster Presentation, Virtual.
 0. **Numkiatsakul P** "Development of Advanced Materials for Novel Ignition Assistance Devices" 2022, 3rd Center for UAS Propulsion(CUP) Workshop Poster Presentation, Virtual.
