@@ -46,7 +46,7 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %} -->
 
-0. **Numkiatsakul P** "Advancing Glow Plug Materials: Enhancing Silicon Nitride Oxidation Resistance with Ca<SUP>2+</SUP> Stabilizer" 2023, [Univeristy of Illinois Hard Materials Seminar], Urbana, IL.
+0. **Numkiatsakul P** "Advancing Glow Plug Materials: Enhancing Silicon Nitride Oxidation Resistance with Ca<SUP>2+</SUP> Stabilizer" 2023, [Univeristy of Illinois Hard Materials Seminar](https://matse.illinois.edu/news/seminars/hard-materials-seminars), Urbana, IL.
 0. **Numkiatsakul P**, Kriven WM, Lee T, Kim KS, Kweon CB. "Enhancing Oxidation Resistance of Silicon Nitride Using Ca<SUP>2+</SUP> Stabilizer" 2023, [MS&T Annual Meeting in Phase Transformations in Ceramics: Science and Applications Symposium](https://www.matscitech.org/MST23), Columbus, OH.
 0. **Numkiatsakul P**, Winegar T "Development of Advanced Materials for Novel Ignition Assistance Devices" 2023, 4th Center for UAS Propulsion(CUP) Workshop Poster Presentation, Virtual.
 0. **Numkiatsakul P** "Development of Advanced Materials for Novel Ignition Assistance Devices" 2022, 3rd Center for UAS Propulsion(CUP) Workshop Poster Presentation, Virtual.
