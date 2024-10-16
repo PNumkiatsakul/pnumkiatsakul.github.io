@@ -8,7 +8,7 @@ redirect_from:
   - /about.htmls
 ---
 
-I am a 4th-year PhD student in MatSE deparment at University of Illinois Urbana-Champaign and a member of [Prof. Waltraud Kriven Research Group](http://kriven.matse.illinois.edu/) focusing on ceramic processing.  Previously, I worked in [Prof. Susan Trolier-McKinstry's Lab](https://www.mri.psu.edu/welcome-susan-trolier-mckinstry-research-group) at the Pennsylvania State University on polymer-ceramic-metal composites for ultrasonic applications. 
+I am a 5th-year PhD student in MatSE deparment at University of Illinois Urbana-Champaign and a member of [Prof. Waltraud Kriven Research Group](http://kriven.matse.illinois.edu/) focusing on ceramic processing.  Previously, I worked in [Prof. Susan Trolier-McKinstry's Lab](https://www.mri.psu.edu/welcome-susan-trolier-mckinstry-research-group) at the Pennsylvania State University on polymer-ceramic-metal composites for ultrasonic applications. 
  
 As a graduate student at UIUC, I aim to understand structural-property-processing relations for ceramic materials and to explore their new advanced applications. I am particulary interested in ceramic processing of electro-ceramics, structural and high-temperature ceramics, oxide composites design, and geopolymers.
 

@@ -15,6 +15,8 @@ author_profile: false
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+0. **Numkiatsakul P**, Lee T, Kim KS, Kriven WM. [Enhancing oxidation resistance of silicon nitride using a Ca<SUP>2+</SUP> stabilizer.](https://doi.org/10.1016/j.jeurceramsoc.2024.116977) Journal of the European Ceramic Society. 2024 Oct 9:116977.
 0. Kim, S, Ryu JI, Kang SG, Motily AH, **Numkiatsakul P**, Alonso R, Lee T, Kriven WM, Kim KS, Kweon CB. [Numerical Investigations of Combustion Dynamics and Thermo-Mechanical Stress in the Ignition Assistance System for Small Aircraft Engines.](https://doi.org/10.1080/00102202.2023.2278075) Combustion Science and Technology. 2023.
 0. Kang SG, Ryu JI, Motily AH, **Numkiatsakul P**, Lee T, Kriven WM, Kim KS, Kweon CB. [Transient Thermomechanical Stress Analysis of Hot Surface Ignition Device Using Sequentially Coupled Computational Fluid Dynamics–Finite Element Analysis Approach.](https://doi.org/10.1115/1.4056426) Journal of Engineering for Gas Turbines and Power. 2023 Dec;145(12):121001.
 0. Kang SG, Ryu JI, Motily AH, **Numkiatsakul P**, Lee T, Kriven WM, Kim KS, Kweon CB. [Thermomechanical Characterization of Hot Surface Ignition Device Using Phenomenological Heat Flux Model.](https://arc.aiaa.org/doi/abs/10.2514/1.B38662) Journal of Propulsion and Power. 2022 Jul;38(4):656-70.
@@ -45,7 +47,9 @@ author_profile: false
 <!-- {% for post in site.presentations reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
+0. **Numkiatsakul P**, Philippe C, Lee T, Kim KS, Kweon CB, Kriven WM. "Sintering Aid Migration in Si<sub>3</sub>N<sub>4</sub>-Based Ceramic Glow Plugs: Impact of Temperature and Electric Fields" 2024, [MS&T Annual Meeting: 2024 Graduate Student Poster Contest](https://www.programmaster.org/PM/PM.nsf/UpcomingSymposia/478CFA9EDC8C5A5585258AA80054C80F?OpenDocument&ParentUNID=D787C9800CF4CEDD8525896D00543C16), Pittsburgh, PA. <span style="color:blue; font-weight:bold;">2nd place</span>
+0. **Numkiatsakul P**, Philippe C, Amezcua Cuellar E, Rothamer D, Lee T, Kim KS, Kweon CB, Kriven WM. "Influence of Various Operating Conditions on Co-Annular Silicon Nitride-Based Glow Plug Degradation" 2024, [MS&T Annual Meeting in Engineering Ceramics: Microstructure-Property-Performance Relations and Applications Symposium](https://www.matscitech.org/MST24), Pittsburgh, PA.
+0. **Numkiatsakul P**, Lee T, Kim KS, Kweon CB, Kriven WM. "Investigation of O-SiAlON Materials for Oxidation Barrier on Silicon Nitride-Based Ignition-Assisted Devices in Small Aircraft Engines" 2024, [10th International Congress on Ceramics (ICC 10): Aerospace ceramics and composites Symposium](https://ceramics.org/past-event/international-congress-on-ceramics-icc10-archive/), Montreal, Canada.
 0. **Numkiatsakul P** "Advancing Glow Plug Materials: Enhancing Silicon Nitride Oxidation Resistance with Ca<SUP>2+</SUP> Stabilizer" 2023, [University of Illinois Hard Materials Seminar](https://matse.illinois.edu/news/seminars/hard-materials-seminars), Urbana, IL.
 0. **Numkiatsakul P**, Kriven WM, Lee T, Kim KS, Kweon CB. "Enhancing Oxidation Resistance of Silicon Nitride Using Ca<SUP>2+</SUP> Stabilizer" 2023, [MS&T Annual Meeting in Phase Transformations in Ceramics: Science and Applications Symposium](https://www.matscitech.org/MST23), Columbus, OH.
 0. **Numkiatsakul P**, Winegar T "Development of Advanced Materials for Novel Ignition Assistance Devices" 2023, 4th Center for UAS Propulsion(CUP) Workshop Poster Presentation, Virtual.
